@@ -57,22 +57,27 @@
 
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ### 📫 &nbsp;How to reach me:
 
-- 🔭 I’m currently working on [Project Name or Job Title]
-- 🌱 I’m currently learning [What You're Learning]
-- 👯 I’m looking to collaborate on [Project or Technology]
-- 🤔 I’m looking for help with [Specific Project or Technology]
+- 🔭 I’m currently working on AI based college maintainance system
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on AI & ML, Full Stack
+- 🤔 I’m looking for help with AI & ML
 - 💬 Ask me about anything tech-related, I'm happy to help
 - 📫 How to reach me: **chanduarasavalli95@gmail.com**
-- 📄 Know about my experiences: [Resume or CV link](Link to your Resume or CV)
-- ⚡ Fun fact: [Fun Fact About You]
+- 📄 Know about my experiences: resumelink(Link to your Resume or CV)
+- ⚡ Fun fact: When I am developing a project, you know I can't even notice the ran of time.
 
-<p align="center">
-  <div style="position: relative; text-align: center; color: white;">
-    <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="50%" style="max-width: 600px;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: black;">
-      <p>Passionate About Coding!</p>
-    </div>
-  </div>
-</p>
+    </td>
+    <td valign="top" width="50%">
+      <p align="center">
+        <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="100%">
+      </p>
+      ⚡ A passionate programmer!
+    </td>
+  </tr>
+</table>
