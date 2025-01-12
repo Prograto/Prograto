@@ -69,7 +69,7 @@
 - 🤔 I’m looking for help with AI & ML
 - 💬 Ask me about anything tech-related, I'm happy to help
 - 📫 How to reach me: **chanduarasavalli95@gmail.com**
-- 📄 Know about my experiences: resumelink(Link to your Resume or CV)
+- 📄 Know about my experiences: resumelink
 - ⚡ Fun fact: When I am developing a project, you know I can't even notice the ran of time.
 
     </td>
