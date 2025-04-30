@@ -63,14 +63,23 @@
 
 ### 📫 &nbsp;How to reach me:
 
-- 🔭 I’m currently working on AI based college maintainance system
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on AI & ML, Full Stack
-- 🤔 I’m looking for help with AI & ML
-- 💬 Ask me about anything tech-related, I'm happy to help
-- 📫 How to reach me: **chanduarasavalli95@gmail.com**
-- 📄 Know about my experiences: resumelink
-- ⚡ Fun fact: When I am developing a project, you know I can't even notice the ran of time.
+🔭 I’m currently working on an AI-based College Maintenance System aimed at automating academic workflows and enhancing campus operations.
+
+🌱 I’m deeply invested in learning and implementing Machine Learning and Artificial Intelligence to build real-world, impactful solutions.
+
+👨‍💻 I build projects that automate processes and are directly useful to the organizations or institutions I work with — from colleges to startups.
+
+👯 I’m open to collaborating on projects involving AI/ML, Full Stack Development, IoT systems, and automation tools.
+
+🚀 My work spans a wide range of domains — from facial recognition attendance systems, live bus tracking, and voice-controlled IoT devices, to interactive educational platforms and code playgrounds for students.
+
+💬 Ask me about anything tech-related — especially in Python, Flask, ML/DL, Web Development, or real-time automation using cost-effective solutions.
+
+📫 Reach me at: chanduarasavalli95@gmail.com
+
+📄 Know more about my experience and work: GitHub – Prograto
+
+⚡ Fun fact: Once I start building a project, I get so immersed in solving problems that I lose track of time — it’s how my best innovations happen!
 
     </td>
     <td valign="top" width="50%">
