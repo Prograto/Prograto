@@ -64,7 +64,7 @@
 - 🤝 I’m open to contributing to **open-source AI/ML projects**
 - 💬 Ask me anything tech-related, I’d love to help!
 - 📧 Email: chanduarasavalli95@gmail.com
-- 📄 Know more about my experience: [Resume](#https://drive.google.com/file/d/167-bRQ2fUKpIHfCmG63vSq5gk3qX7lGx/view?usp=drivesdk) 
+- 📄 Know more about my experience: [Resume](#) https://drive.google.com/file/d/167-bRQ2fUKpIHfCmG63vSq5gk3qX7lGx/view?usp=drivesdk
 - ⚡ Fun fact: When I’m coding, I often lose track of time!
 
 ---
