@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Chandu Sekhar Arasavalli</h1>
+<h1 align="center">Hey there 👋, I'm Chandra Sekhar Arasavalli</h1>
 <h3 align="center">💡 An Enthusiastic Full Stack Developer | Innovator | Tech Explorer from India 🇮🇳</h3>
 
 <p align="center">
