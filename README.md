@@ -6,7 +6,7 @@
 
 <br />
 
-<a href="https://prograto.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00F5FF" /></a>
+<a href="https://chandrasekhararasavalli.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00F5FF" /></a>
 <a href="https://www.linkedin.com/in/chandu-smart-techtuts/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:chanduarasavalli95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://youtube.com/@chandusmarttechtuts1557"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -149,7 +149,7 @@ TypeScript      ███████████████░░░░░░ 
 </tr>
 </table>
 
-**→** [📧 Email](mailto:chanduarasavalli95@gmail.com) · [💬 WhatsApp](https://wa.me/918096381549) · [🌐 Portfolio](https://prograto.dev)
+**→** [📧 Email](mailto:chanduarasavalli95@gmail.com) · [💬 WhatsApp](https://wa.me/918096381549) · [🌐 Portfolio](https://chandrasekhararasavalli.vercel.app)
 
 </div>
 
