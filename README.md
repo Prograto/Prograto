@@ -11,7 +11,7 @@
 <a href="mailto:chanduarasavalli95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://youtube.com/@chandusmarttechtuts1557"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://twitter.com/chanduprograto"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://wa.me/919999999999"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/918096381549"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
 
@@ -50,6 +50,12 @@ motto: "Build. Break. Learn. Repeat."
 > I start every project from the same question: **"What's the system underneath this that has to not fall over?"**
 >
 > That backend bias shows up everywhere — **Flask APIs** for 300+ students, **IoT checkouts** where hardware talks to cloud in real time, and a **Google AI/ML** internship that showed me discipline at scale. Freelance work with **SDA Hospital**, **ZIDI**, and **Hilux** sharpened the rest — shipping where broken deploys mean real people can't work.
+
+<div align="center">
+
+*⚡ "When I'm coding, time doesn't exist — only creativity does!" ⚡*
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -143,7 +149,7 @@ TypeScript      ███████████████░░░░░░ 
 </tr>
 </table>
 
-**→** [📧 Email](mailto:chanduarasavalli95@gmail.com) · [💬 WhatsApp](https://wa.me/919999999999) · [🌐 Portfolio](https://prograto.dev)
+**→** [📧 Email](mailto:chanduarasavalli95@gmail.com) · [💬 WhatsApp](https://wa.me/918096381549) · [🌐 Portfolio](https://prograto.dev)
 
 </div>
 
@@ -262,7 +268,7 @@ jobs:
 ### 🤝 Let's Build Together
 
 <a href="mailto:chanduarasavalli95@gmail.com"><img src="https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://wa.me/919999999999"><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;
+<a href="https://wa.me/918096381549"><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/chandu-smart-techtuts/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br /><br />
@@ -270,6 +276,8 @@ jobs:
 ```
  "Build. Break. Learn. Repeat."  — Chandra Sekhar
 ```
+
+*🌟 "Code is not just my skill — it's my way of creating impact." 🌟*
 
 <br />
 
