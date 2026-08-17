@@ -218,16 +218,20 @@ TypeScript      ███████████████░░░░░░ 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prograto&show_icons=true&hide_border=true&count_private=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=7c3aed&text_color=a0a8c8&ring_color=00f5ff&cache_seconds=1800" />
+<!-- Main Stats Card -->
+<img width="49%" src="https://my-github-readme-stats-seven-nu.vercel.app/api?username=Prograto&show_icons=true&hide_border=true&count_private=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=7c3aed&text_color=a0a8c8&ring_color=00f5ff&cache_seconds=1800" />
+
+<!-- Streak Stats -->
 <img width="49%" src="https://streak-stats.demolab.com?user=Prograto&hide_border=true&background=0a0e1a&stroke=1a1e2e&ring=00f5ff&fire=7c3aed&currStreakLabel=00f5ff&sideLabels=a0a8c8&currStreakNum=ffffff&sideNums=ffffff&dates=4a4e6a" />
 
 <br />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prograto&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=a0a8c8&cache_seconds=1800" />
-
+<!-- Top Languages Card -->
+<img width="40%" src="https://my-github-readme-stats-seven-nu.vercel.app/api/top-langs/?username=Prograto&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=a0a8c8&cache_seconds=1800" />
 
 <br />
 
+<!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prograto&bg_color=0a0e1a&color=00f5ff&line=7c3aed&point=00f5ff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Prograto)
 
 </div>
