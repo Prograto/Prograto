@@ -296,23 +296,21 @@ jobs:
 
 <div align="center">
 
-### 🤝 Let's Build Together
+<!-- Main Stats Card (Appended &v=1 to clear cache) -->
+<img width="49%" src="https://my-github-readme-stats-seven-nu.vercel.app/api?username=Prograto&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=7c3aed&text_color=a0a8c8&ring_color=00f5ff&cache_seconds=1800&v=1" />
 
-<a href="mailto:chanduarasavalli95@gmail.com"><img src="https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://wa.me/918096381549"><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/chandu-smart-techtuts/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br /><br />
-
-```
- "Build. Break. Learn. Repeat."  — Chandra Sekhar
-```
-
-*🌟 "Code is not just my skill — it's my way of creating impact." 🌟*
+<!-- Streak Stats -->
+<img width="49%" src="https://streak-stats.demolab.com?user=Prograto&hide_border=true&background=0a0e1a&stroke=1a1e2e&ring=00f5ff&fire=7c3aed&currStreakLabel=00f5ff&sideLabels=a0a8c8&currStreakNum=ffffff&sideNums=ffffff&dates=4a4e6a" />
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=Prograto&label=Profile+Views&color=0a0e1a&style=for-the-badge)
+<!-- Top Languages Card -->
+<img width="40%" src="https://my-github-readme-stats-seven-nu.vercel.app/api/top-langs/?username=Prograto&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=a0a8c8&cache_seconds=1800" />
+
+<br />
+
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prograto&bg_color=0a0e1a&color=00f5ff&line=7c3aed&point=00f5ff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Prograto)
 
 </div>
 
