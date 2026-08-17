@@ -218,12 +218,13 @@ TypeScript      ███████████████░░░░░░ 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prograto&show_icons=true&hide_border=true&count_private=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=7c3aed&text_color=a0a8c8&ring_color=00f5ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prograto&show_icons=true&hide_border=true&count_private=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=7c3aed&text_color=a0a8c8&ring_color=00f5ff&cache_seconds=1800" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Prograto&hide_border=true&background=0a0e1a&stroke=1a1e2e&ring=00f5ff&fire=7c3aed&currStreakLabel=00f5ff&sideLabels=a0a8c8&currStreakNum=ffffff&sideNums=ffffff&dates=4a4e6a" />
 
 <br />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prograto&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=a0a8c8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prograto&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=a0a8c8&cache_seconds=1800" />
+
 
 <br />
 
