@@ -219,8 +219,7 @@ TypeScript      ███████████████░░░░░░ 
 <div align="center">
 
 <!-- Main Stats Card -->
-<img width="49%" src="https://my-github-readme-stats-seven-nu.vercel.app/api?username=Prograto&show_icons=true&hide_border=true&count_private=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=7c3aed&text_color=a0a8c8&ring_color=00f5ff&cache_seconds=1800" />
-
+<img width="49%" src="https://my-github-readme-stats-seven-nu.vercel.app/api?username=Prograto&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=7c3aed&text_color=a0a8c8&ring_color=00f5ff&cache_seconds=1800" />
 <!-- Streak Stats -->
 <img width="49%" src="https://streak-stats.demolab.com?user=Prograto&hide_border=true&background=0a0e1a&stroke=1a1e2e&ring=00f5ff&fire=7c3aed&currStreakLabel=00f5ff&sideLabels=a0a8c8&currStreakNum=ffffff&sideNums=ffffff&dates=4a4e6a" />
 
